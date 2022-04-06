@@ -1,0 +1,9 @@
+{
+	"name": "adfpocpgm-adf",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94570652-7b7b-4757-af45-b1b1d083c7d3",
+		"tenantId": "df0675de-868a-42d7-829d-8410cc7ec706"
+	}
+}
